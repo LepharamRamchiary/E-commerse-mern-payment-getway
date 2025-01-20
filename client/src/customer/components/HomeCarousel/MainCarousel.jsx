@@ -23,7 +23,7 @@ const MainCarousel = () => {
                 // controlsStrategy="alternate"
                 infinite
                 autoPlay
-                autoPlayInterval={3000}
+                autoPlayInterval={2000}
                 disableButtonsControls
             />
         </div>
